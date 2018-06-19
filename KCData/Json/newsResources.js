@@ -1,0 +1,80 @@
+var newsData = [
+    {
+        "key": "598a678278fee204ee51cd2c",
+        "name_en": "KHMER POST",   
+        "imageUrl": "ic_khmernote.png",   
+        "mainUrl": "https://khmernote.com/",                   
+        "linkUrl": "https://khmernote.com/?s=",
+    },
+    {
+        "key": "598a678278fee204ee51cd2d",
+        "name_en": "KOH SANTEPHEAP",   
+        "imageUrl": "ic_kohsantepheap.png",
+        "mainUrl": "https://kohsantepheapdaily.com.kh",                      
+        "linkUrl": "https://kohsantepheapdaily.com.kh/?s=",
+    },
+    {
+        "key": "598a678278fee204ee51cd2e",
+        "name_en": "RFA",   
+        "imageUrl": "ic_rfa.png", 
+        "mainUrl": "https://www.rfa.org/khmer/",                     
+        "linkUrl": "https://www.rfa.org/khmer/search?search_text%3Autf8%3Austring=Search&submit.x=15&submit.y=31",
+    },
+    {
+        "key": "598a678278fee204ee51cd2f",
+        "name_en": "DAP",   
+        "imageUrl": "ic_dap.png",     
+        "mainUrl": "https://www.dap-news.com/",                 
+        "linkUrl": "https://www.dap-news.com/index.php/kh/%E1%9E%96%E1%9F%90%E1%9E%8F%E1%9F%8C%E1%9E%98%E1%9E%B6%E1%9E%93%E1%9E%90%E1%9F%92%E1%9E%98%E1%9E%B8%E1%9E%94%E1%9F%86%E1%9E%95%E1%9E%BB%E1%9E%8F",
+    },
+    {
+        "key": "598a678278fee204ee51cd2t",
+        "name_en": "THMEY THMEY",   
+        "imageUrl": "ic_thmeythmey.png",
+        "mainUrl": "https://thmeythmey.com/",                      
+        "linkUrl": "https://thmeythmey.com/?page=search&id=",
+    },
+    {
+        "key": "598a678278fee204ee51cd2g",
+        "name_en": "KAM PUCHEA THMEY",   
+        "imageUrl": "ic_kampucheathmey.png",
+        "mainUrl": "http://kampucheathmey.com/",                      
+        "linkUrl": "http://kampucheathmey.com/2016/page/1?s",
+    },
+    {
+        "key": "598a678278fee204ee51cd2h",
+        "name_en": "POST KHMER",   
+        "imageUrl": "ic_postkhmer.png", 
+        "mainUrl": "https://www.postkhmer.com/",                   
+        "linkUrl": "https://www.postkhmer.com/%E1%9E%96%E1%9F%90%E1%9E%8F%E1%9F%8C%E1%9E%98%E1%9E%B6%E1%9E%93%E1%9E%87%E1%9E%B6%E1%9E%8F%E1%9E%B7?page=0",
+    },
+    {
+        "key": "598a678278fee204ee51cd2i",
+        "name_en": "VOD",   
+        "imageUrl": "ic_vod.png",
+        "mainUrl": "https://vodhotnews.com",                    
+        "linkUrl": "https://vodhotnews.com/?s=",
+    },
+    {
+        "key": "598a678278fee204ee51cd2j",
+        "name_en": "RAK SMEY KAMPUCHEA",   
+        "imageUrl": "ic_raksmeykampuchea.png",  
+        "mainUrl": "http://www.rasmeinews.com",                  
+        "linkUrl": "http://www.rasmeinews.com/page/1/?s",
+    },
+    {
+        "key": "598a678278fee204ee51cd2k",
+        "name_en": "CAMBODIA DAILY",   
+        "imageUrl": "ic_cambodiadaily.png",   
+        "mainUrl": "https://khmer.cambodiadaily.com",                 
+        "linkUrl": "https://khmer.cambodiadaily.com/page/1/?s",
+    },
+    {
+        "key": "598a678278fee204ee51cd2l",
+        "name_en": "RFI",   
+        "imageUrl": "ic_rfi.png",
+        "mainUrl": "http://km.rfi.fr/",                    
+        "linkUrl": "http://km.rfi.fr/cambodia/",
+    }
+];
+module.exports = newsData;
